@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #include "Player.h"
 #include "Game.h"
 
@@ -6,10 +8,7 @@ Player::Player(const std::string& clientid, int x, int y, graphics::Color color)
   graphics::DrawPixelAt(x, y, color);
 }
 
-Player::Player() : clientid_(""), position_(-1, -1), color_(graphics::Color::WHITE)
-{
-
-}
+Player::Player() : clientid_(""), position_(-1, -1), color_(graphics::Color::WHITE) { }
 
 void Player::MoveTo(int x, int y)
 {

@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #include "Graphics.h"
 
 void graphics::DrawPixelAt(short x, short y, Color color)
