@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiplayerTest", "MultiplayerTest.vcxproj", "{BFA58D8C-1D23-41EA-8155-16A3B82B014E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Debug|x64.ActiveCfg = Debug|x64
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Debug|x64.Build.0 = Debug|x64
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Debug|x86.Build.0 = Debug|Win32
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Release|x64.ActiveCfg = Release|x64
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Release|x64.Build.0 = Release|x64
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Release|x86.ActiveCfg = Release|Win32
+		{BFA58D8C-1D23-41EA-8155-16A3B82B014E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5FCFC8-3203-495A-80E1-F794F03338EA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+﻿  Main.cpp
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(121): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(139): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(145): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(197): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(209): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(215): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(220): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(394): warning C4834: discarding return value of function with 'nodiscard' attribute
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(517): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(521): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(596): warning C4834: discarding return value of function with 'nodiscard' attribute
+c:\users\krystian\desktop\-\projects\multiplayertest\src\main.cpp(68): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  51 of 1465 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MultiplayerTest.vcxproj -> C:\Users\Krystian\Desktop\-\Projects\MultiplayerTest\bin\Release\MultiplayerTest.exe

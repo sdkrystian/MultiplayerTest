@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(31): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(393): warning C4834: discarding return value of function with 'nodiscard' attribute
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(522): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\krystian\desktop\-\projects\multiplayertest\include\simplenetworking\simplenetworking.h(600): warning C4834: discarding return value of function with 'nodiscard' attribute
+c:\users\krystian\desktop\-\projects\multiplayertest\src\main.cpp(68): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : C:\Users\Krystian\Desktop\-\Projects\MultiplayerTest\bin\Debug\MultiplayerTest.exe not found or not built by the last incremental link; performing full link
+  MultiplayerTest.vcxproj -> C:\Users\Krystian\Desktop\-\Projects\MultiplayerTest\bin\Debug\MultiplayerTest.exe
